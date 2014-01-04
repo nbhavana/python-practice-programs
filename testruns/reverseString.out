@@ -1,0 +1,268 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+================================ RESTART ================================
+Enter s string that you want to reverse
+bhavana
+bhavana
+>>> 
+>>> 
+Enter s string that you want to reverse
+
+>>> ================================ RESTART ================================
+>>> 
+
+Enter s string that you want to reverse
+
+
+string length is 0
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+bhavana
+bhavana
+string length is 7
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+bhavna
+bhavna
+string length is 6
+
+Traceback (most recent call last):
+  File "C:/Users/shital/Desktop/Tutorial/reverseString.py", line 19, in <module>
+    print string_reverse(string)
+  File "C:/Users/shital/Desktop/Tutorial/reverseString.py", line 10, in string_reverse
+    return string1[::-1]
+NameError: global name 'string1' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+hello
+hello
+string length is 5
+olleh
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+123456789
+You have entered the string:123456789
+987654321
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+bhavana
+You have entered the string:bhavana
+The reverse of the string you entered is anavahb
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+hello world
+
+You have entered the string:hello world
+
+The reverse of the string you entered is dlrow olleh
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+
+
+You have entered the string:
+
+The reverse of the string you entered is: 
+>>> 
+
+
+
+>>> 
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+
+
+>>> 
+
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+>>> 
+>>> 
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+bhavana
+
+You have entered the string:bhavana
+
+The reverse of the string you entered is: anavahb
+>>> 
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+hello world !!!
+
+You have entered the string:hello world !!!
+
+The reverse of the string you entered is: !!! dlrow olleh
+>>> amazing
+
+Traceback (most recent call last):
+  File "<pyshell#16>", line 1, in <module>
+    amazing
+NameError: name 'amazing' is not defined
+>>> 
+>>> 
+>>> clear
+
+Traceback (most recent call last):
+  File "<pyshell#19>", line 1, in <module>
+    clear
+NameError: name 'clear' is not defined
+>>> 
+>>> 
+
+
+>>> 
+
+>>> 
+
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse
+
+>>> ================================ RESTART ================================
+>>> 
+
+Enter s string that you want to reverse:
+
+
+You have entered the string:
+
+The reverse of the string you entered is: 
+
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse:
+bhavana
+
+You have entered the string:bhavana
+
+The reverse of the string you entered is: anavahb
+>>> hello python !!!!
+SyntaxError: invalid syntax
+>>> 
+>>> 
+
+>>> 
+
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+>>> 
+
+
+>>> 
+>>> 
+>>> 
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse:
+bhavana
+
+You have entered the string:bhavana
+
+The reverse of the string you entered is: anavahb
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse:
+hello world !!!!
+
+You have entered the string:hello world !!!!
+
+The reverse of the string you entered is: !!!! dlrow olleh
+>>> ================================ RESTART ================================
+>>> 
+Enter s string that you want to reverse:
+its awesome !!!
+
+You have entered the string:its awesome !!!
+
+The reverse of the string you entered is: !!! emosewa sti
+>>> 

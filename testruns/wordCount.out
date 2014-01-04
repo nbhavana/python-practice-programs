@@ -1,0 +1,31 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter a string:
+bhavana
+bhavana
+>>> ================================ RESTART ================================
+>>> 
+Enter a string:
+bhavana is a girl
+bhavana is a girl
+number of words in a string:4
+>>> ================================ RESTART ================================
+>>> 
+Enter a string:
+bhavana
+bhavana
+number of words in a string:1
+>>> ================================ RESTART ================================
+>>> 
+Enter a string:
+a a a a a
+a a a a a
+number of words in a string:5
+>>> ================================ RESTART ================================
+>>> 
+Enter a string:
+python is easy
+number of words in a string:3
+>>> 

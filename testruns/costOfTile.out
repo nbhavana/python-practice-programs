@@ -1,0 +1,39 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter width of the floor:
+23
+Enter height of the floor:
+12
+Enter the cost of one tile per square feet:
+4.5
+
+Width = 23.000000
+
+Height = 12.000000
+
+Cost of tile per square feet = 4.500000
+
+areaOfFloor : 276.000000
+
+Total cost of tile to cover the floor is : 1242.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter width of the floor:
+8.9
+Enter height of the floor:
+8.9
+Enter the cost of one tile per square feet:
+2.5
+
+Width = 8.900000
+
+Height = 8.900000
+
+Cost of tile per square feet = 2.500000
+
+areaOfFloor : 79.210000
+
+Total cost of tile to cover the floor is : 198.025000
+>>> 

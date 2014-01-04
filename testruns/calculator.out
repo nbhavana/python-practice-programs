@@ -1,0 +1,93 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+1
+
+You chose to perform Addition
+Enter two numbers for your operation:
+
+123
+432
+Answer = 555.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+2
+
+You chose to perform Subtraction
+Enter two numbers for your operation:
+
+34
+43
+Answer = -9.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+2
+
+You chose to perform Subtraction
+Enter two numbers for your operation:
+
+234
+23
+Answer = 211.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+3
+
+You chose to perform Multiplication
+Enter two numbers for your operation:
+
+54
+34
+Answer = 1836.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+4
+
+You chose to perform Division
+Enter two numbers for your operation:
+
+88
+2
+Answer = 44.000000
+>>> ================================ RESTART ================================
+>>> 
+Enter number for any of following operations:
+1-Addition 
+2-Subtraction 
+3-Multiplication 
+4-Division
+4
+
+You chose to perform Division
+Enter two numbers for your operation:
+
+45
+3
+Answer = 15.000000
+>>> 

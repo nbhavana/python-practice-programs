@@ -1,0 +1,59 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+bhavana
+The string you entered is not palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+malayalam
+The string you entered is palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+racecar
+The string you entered is palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+
+
+artnamenotubtimeemitbutonemantra
+The string you entered is not palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+
+artnamenotubtimeemitbutonemantra
+The string you entered is not palindrome
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+
+artnamenotubtimeemitbutonemantra
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+artnamenotubtimeemitbutonemantra
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+artnamenotubtimeemitbutonemantra
+artnamenotubtimeemitbutonemantra
+artnamenotubtimeemitbutonemantra
+The string you entered is palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+hahahah
+The string you entered is palindrome
+>>> ================================ RESTART ================================
+>>> 
+Enter the string :
+python
+The string you entered is not palindrome
+>>> 

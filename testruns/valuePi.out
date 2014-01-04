@@ -1,0 +1,23 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter the value for the limit of decimal digits for  PI:
+5
+3.14285
+>>> ================================ RESTART ================================
+>>> 
+Enter the value for the limit of decimal digits for  PI:
+50
+3.14285714285714285714285714285714285714285714285714
+>>> ================================ RESTART ================================
+>>> 
+Enter the value for the limit of decimal digits for  PI:
+25
+3.1428571428571428571428571
+>>> ================================ RESTART ================================
+>>> 
+Enter the value for the limit of decimal digits for  PI:
+8
+3.14285714
+>>> 

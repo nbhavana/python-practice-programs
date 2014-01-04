@@ -1,0 +1,87 @@
+Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+b
+Enter any Binary number:
+1101
+Equivalent decimal number : 13
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+b
+Enter any Binary number:
+11010
+Equivalent decimal number : 26
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+b
+Enter any Binary number:
+1111
+Equivalent decimal number : 15
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+d
+Enter any Decimal number:
+23
+Equivalent Binary number: 10111
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+d
+Enter any Decimal number:
+12
+Equivalent Binary number: 1100
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+45
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+d
+Enter any Decimal number:
+45
+Equivalent Binary number: 101101
+>>> ================================ RESTART ================================
+>>> 
+Usage:
+B - Convert Binary number to Decimal
+D - Convert Decimal number to Binary
+
+Enter your choice:
+2
+You have entered wrong choice
+>>> 
